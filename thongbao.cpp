@@ -2,7 +2,7 @@
 {
 int main()
 {
-cout << "Hello Word";
+cout << "Hello Word from Hao";
 return 0;
 }
 }
