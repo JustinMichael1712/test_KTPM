@@ -1,8 +1,12 @@
 #include <iostream>
-{
+
+using namespace std;
+
 int main()
 {
-cout << "Hello Word from Hao";
-return 0;
-}
+    cout << "eheheheheheh\n";
+    
+    cout<<"Hello World from Huy";
+
+    return 0;
 }
