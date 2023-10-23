@@ -6,7 +6,7 @@ int main()
 {
     cout << "eheheheheheh\n";
     
-    cout<<"Hello World from Huy";
+    cout<<"Hello World from Hao";
 
     return 0;
 }
