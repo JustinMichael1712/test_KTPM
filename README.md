@@ -1,2 +1,2 @@
-# test_KTPM1610
+# test_KTPM
 code chung c plusplus
