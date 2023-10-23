@@ -6,7 +6,7 @@ int main()
 {
     cout << "eheheheheheh\n";
 
-	
+    cout << "hahahahaha\n";
     
     cout<<"Hello World from Huy sau lan 2";
 
